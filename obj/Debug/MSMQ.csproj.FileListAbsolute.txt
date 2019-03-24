@@ -1,0 +1,5 @@
+E:\lab\dotNet\Test\Test\MSMQ\bin\Debug\MSMQ.exe.config
+E:\lab\dotNet\Test\Test\MSMQ\bin\Debug\MSMQ.exe
+E:\lab\dotNet\Test\Test\MSMQ\bin\Debug\MSMQ.pdb
+E:\lab\dotNet\Test\Test\MSMQ\obj\Debug\MSMQ.exe
+E:\lab\dotNet\Test\Test\MSMQ\obj\Debug\MSMQ.pdb
